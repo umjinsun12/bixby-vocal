@@ -1,0 +1,5 @@
+action (CallVocal) {
+  description (Call Vocal Application.)
+  type(Search)
+  output (Response)
+}

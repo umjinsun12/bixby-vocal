@@ -1,0 +1,7 @@
+endpoints {
+  action-endpoints {
+    action-endpoint (CallVocal) {
+      local-endpoint (CallVocal.js)
+    }
+  }
+}
