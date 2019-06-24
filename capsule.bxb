@@ -1,5 +1,5 @@
 capsule {
-  id (vocal.maestro)
+  id (playground.tester)
   version (0.1.0)
   format (3)
   targets {

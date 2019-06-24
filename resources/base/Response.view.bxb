@@ -1,0 +1,6 @@
+result-view{
+  match: Response(this)
+  app-launch{
+    payload-uri("com.vocal.maestro")
+  }
+}
